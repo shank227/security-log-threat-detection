@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# --- ML Project Dataset Ignore Rules ---
+# Ignore all raw datasets (too large for GitHub)
+data/raw_logs/
+data/processed/
+
+# Ignore raw CSV, log, and archive files
+*.csv
+*.log
+*.zip
+*.tar.gz
