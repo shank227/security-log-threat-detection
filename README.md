@@ -81,6 +81,8 @@ A small dashboard (Streamlit) offering:
 ## 📁 **Repository Structure**
 
 ```
+Final_Project_ML_IBM/
+|
 security-log-threat-detection/
 │
 ├── data/
